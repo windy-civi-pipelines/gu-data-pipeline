@@ -75,6 +75,7 @@
     "division_id": "ocd-division/country:us/territory:gu"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T18:11:51Z"
+    "logs_latest_update": "2025-10-23T18:11:51Z",
+    "text_extraction_latest_update": "2025-10-24T04:04:33.821254Z"
   }
 }
